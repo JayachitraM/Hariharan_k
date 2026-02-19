@@ -13,7 +13,7 @@ export const personalInfo = {
   phone: "+91 8220365926",
   linkedin: "https://www.linkedin.com/in/hari-haran24/",
   github: "https://github.com/hariharan-k",
-  resume: "https://drive.google.com/file/d/1pZAadZCXJc7UxRl009uDOSYF7ktVpOob/view",
+  resume: "https://drive.google.com/file/d/1m4SQnk1Pb5O8svOyGXWaCccrW9Mw06GX/view?usp=drivesdk",
   image: "/profile-image.jpg"
 };
 
