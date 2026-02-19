@@ -34,7 +34,7 @@ export const projectsData = [
   },
   {
     id: 2,
-    title: "Varugai - Geo Facial Attendance System",
+    title: "Geo Facial Attendance System",
     description: "An innovative attendance management system combining facial recognition with geo-location for enhanced security.",
     longDescription: "Built a cutting-edge attendance system that uses facial recognition technology combined with geo-location verification to ensure accurate and secure attendance tracking for organizations.",
     image: "/projects/varugai.jpg",
@@ -104,7 +104,7 @@ export const projectsData = [
   },
   {
     id: 4,
-    title: "Thadam - GPS Tracking System",
+    title: "GPS Tracking System",
     description: "Real-time GPS tracking solution for fleet management with advanced analytics and route optimization.",
     longDescription: "Created a comprehensive GPS tracking platform for fleet management that provides real-time vehicle tracking, route optimization, and detailed analytics for improved operational efficiency.",
     image: "/projects/thadam.jpg",
